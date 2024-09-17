@@ -25,7 +25,7 @@ This Python script generates a QR code containing a provisioning URI for OTP (On
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/qrcode-generator.git
+   git clone https://github.com/dhananjaykr306/Authenticator/tree/main
    cd qrcode-generator
 2.Install the required libraries:
 
